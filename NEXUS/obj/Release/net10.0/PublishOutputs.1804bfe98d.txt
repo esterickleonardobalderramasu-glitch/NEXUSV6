@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Desktop\Programacion\NEXUS\NEXUS\bin\Release\net10.0\publish\NEXUS.exe
+C:\Users\HP\OneDrive\Desktop\Programacion\NEXUS\NEXUS\bin\Release\net10.0\publish\NEXUS.dll
+C:\Users\HP\OneDrive\Desktop\Programacion\NEXUS\NEXUS\bin\Release\net10.0\publish\NEXUS.deps.json
+C:\Users\HP\OneDrive\Desktop\Programacion\NEXUS\NEXUS\bin\Release\net10.0\publish\NEXUS.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Programacion\NEXUS\NEXUS\bin\Release\net10.0\publish\NEXUS.pdb
